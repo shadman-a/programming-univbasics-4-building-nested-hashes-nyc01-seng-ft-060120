@@ -1,7 +1,5 @@
 def base_hash
-  base = {
-    :railroads =>
-  }
+
 
 end
 
